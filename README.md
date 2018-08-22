@@ -10,7 +10,7 @@ The dataset includes 2113 users, 10197 movies, 855598 ratings and 13222 tags. Th
 
 ## Users
 
-The primary users of this application will be users seeking for movies and their ratings that match their search criteria.
+The primary users of this application will be users seeking movies and their ratings that match their search criteria.
  1) movie search  and 2) user search.
  In the first step, movie attributes such as genre, year, country, cast, and user’s tags (e.g. tags that viewers assigned to movies) can be selected to search for movies.
  
